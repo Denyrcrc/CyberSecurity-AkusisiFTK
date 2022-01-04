@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 4.5.0.3 
+
+Case Information: 
+Acquired using: ADI4.5.0.3
+Case Number: 001
+Evidence Number: 001
+Unique description: USB Drive Image
+Examiner: Deny_Ahmad_1301194274
+Notes: Test Acquire
+
+--------------------------------------------------------------
+
+Information for F:\materiw\Siber\tugas imaging\001\Images\001\001_1301194274:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 8,191,888
+[Physical Drive Information]
+ Removable drive: True
+ Source data size: 3999 MB
+ Sector count:    8191888
+[Computed Hashes]
+ MD5 checksum:    fed0b4e8979912e9bde7d0b3e01fd6de
+ SHA1 checksum:   37d6ed73449fe5e3038f616e3b8b2038e82d688f
+
+Image Information:
+ Acquisition started:   Fri Dec 10 23:09:45 2021
+ Acquisition finished:  Fri Dec 10 23:15:10 2021
+ Segment list:
+  F:\materiw\Siber\tugas imaging\001\Images\001\001_1301194274.s01
+
+Image Verification Results:
+ Verification started:  Fri Dec 10 23:15:10 2021
+ Verification finished: Fri Dec 10 23:15:35 2021
+ MD5 checksum:    fed0b4e8979912e9bde7d0b3e01fd6de : verified
+ SHA1 checksum:   37d6ed73449fe5e3038f616e3b8b2038e82d688f : verified
